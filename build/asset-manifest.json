@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e758163.css",
+    "main.js": "/static/js/main.58ecd347.js",
+    "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
+    "static/media/Shwetha - Resume Off Campus.pdf": "/static/media/Shwetha - Resume Off Campus.1a8a2d30f8af622daf83.pdf",
+    "static/media/PFP-about.jpg": "/static/media/PFP-about.761f3d72ddca98d56208.jpg",
+    "static/media/profile.jpg": "/static/media/profile.f51233b94111c007109a.jpg",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/index.html",
+    "main.4e758163.css.map": "/static/css/main.4e758163.css.map",
+    "main.58ecd347.js.map": "/static/js/main.58ecd347.js.map",
+    "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e758163.css",
+    "static/js/main.58ecd347.js"
+  ]
+}
